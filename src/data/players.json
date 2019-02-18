@@ -1,0 +1,34 @@
+{
+  "count": 3,
+  "results": [
+    {
+      "_id": "5c390300c4768e00179f6518",
+      "name": "Ken Griffey, Sr.",
+      "position": "OF",
+      "throws": "L",
+      "bats": "L",
+      "team": "Mariners",
+      "__v": 0
+    },
+
+    {
+      "_id": "5c390259c4768e00179f6517",
+      "name": "Ken Griffey, Jr.",
+      "position": "CF",
+      "throws": "L",
+      "bats": "L",
+      "team": "Mariners",
+      "__v": 0
+    },
+
+    {
+      "_id": "5c3bc2af077f8f001789c51c",
+      "name": "Cal Ripken, Jr",
+      "position": "SS",
+      "throws": "R",
+      "bats": "R",
+      "team": "Orioles",
+      "__v": 0
+    }
+  ]
+}

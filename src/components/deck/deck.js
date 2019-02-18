@@ -1,6 +1,5 @@
-import React from 'react';
-
-import Card from '../card/card.js';
+import React from "react";
+import Card from "../card/card.js";
 
 const Deck = props => {
   return (
