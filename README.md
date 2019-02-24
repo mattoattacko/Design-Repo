@@ -12,4 +12,5 @@
 - [Original Fork](https://codesandbox.io/s/mow5qk6529)
 
 - [DESIGN - React Table Component](https://codesandbox.io/s/84261nyyjj)
+- [DESIGN - React Badge, Chips, Tags](https://codesandbox.io/s/q30km3nr49)
 
